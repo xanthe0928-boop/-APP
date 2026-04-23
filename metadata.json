@@ -1,0 +1,6 @@
+{
+  "name": "Remix: 醫院病人轉送系統",
+  "description": "追蹤以即時顯示病人在醫院內各部門間的轉送動向、任務指派及當前狀態。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
